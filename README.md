@@ -1,2 +1,2 @@
-# warehouse
-foxminded c# course task 7
+# Warehouse
+
